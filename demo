@@ -2,6 +2,9 @@
     onclick="getInputValue();">Monitorer</button></div>
 <div><select name="monitors" id="dropdown">
     <option
+        value="https://www.vinted.fr/vetements?currency=EUR&catalog[]=5&catalog[]=1904&order=newest_first">
+        Habits</option>
+    <option
         value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=90804&catalog[]=79&price_to=20">
         Pull Patagonia</option>
     <option
