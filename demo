@@ -2,7 +2,7 @@
     onclick="getInputValue();">Monitorer</button></div>
 <div><select name="monitors" id="dropdown">
     <option
-        value="https://www.vinted.fr/vetements?currency=EUR&catalog[]=5&catalog[]=1904&order=newest_first">
+        value="https://www.vinted.fr/vetements?currency=EUR&catalog[]=5&catalog[]=1904&order=newest_first&brand_id[]=53&brand_id[]=304&brand_id[]=2319&brand_id[]=88&brand_id[]=94&brand_id[]=73306&brand_id[]=441&brand_id[]=362&brand_id[]=56974&brand_id[]=43777&brand_id[]=65&brand_id[]=6&brand_id[]=90804">
         Habits</option>
     <option
         value="https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=88&brand_id[]=441&brand_id[]=362&brand_id[]=65&order=newest_first&catalog[]=1821&price_to=30.00&currency=EUR">
@@ -29,7 +29,7 @@
         value="https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=304&brand_id[]=2319&brand_id[]=88&brand_id[]=94&brand_id[]=441&brand_id[]=362&brand_id[]=43777&order=newest_first&currency=EUR&catalog[]=287&catalog[]=94&price_to=35.00">
         Accessoires</option>
     <option
-        value="https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=304&brand_id[]=2319&brand_id[]=94&brand_id[]=362&brand_id[]=56974&brand_id[]=6&brand_id[]=90804&order=newest_first&currency=EUR&catalog[]=1811&catalog[]=1825&catalog[]=1812&catalog[]=1814&catalog[]=266&catalog[]=264&price_to=30">
+        value="https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=304&brand_id[]=2319&brand_id[]=94&brand_id[]=362&brand_id[]=56974&brand_id[]=6&brand_id[]=90804&order=newest_first&currency=EUR&catalog[]=1811&catalog[]=1825&catalog[]=1812&catalog[]=1814&catalog[]=266&catalog[]=264&price_to=25.00">
         Gilets</option>
     <option
         value="https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=2319&brand_id[]=88&brand_id[]=94&brand_id[]=43777&order=newest_first&currency=EUR&catalog[]=2051&price_to=120">
