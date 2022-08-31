@@ -5,93 +5,33 @@
         value="https://www.vinted.fr/vetements?currency=EUR&catalog[]=5&catalog[]=1904&order=newest_first">
         Habits</option>
     <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=90804&catalog[]=79&price_to=20">
-        Pull Patagonia</option>
+        value="https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=88&brand_id[]=441&brand_id[]=362&brand_id[]=65&order=newest_first&catalog[]=1821&price_to=30.00&currency=EUR">
+        Jogging</option>
     <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&price_to=15&brand_id[]=90804&catalog[]=77">
-        T-Shirt Patagonia</option>
+        value="https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=304&brand_id[]=88&brand_id[]=441&brand_id[]=362&brand_id[]=65&order=newest_first&currency=EUR&catalog[]=80&price_to=15.00">
+        Shorts</option>
     <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&catalog[]=79&brand_id[]=6&price_to=12">
-        Pull GAP</option>
+        value="https://www.vinted.fr/vetements?brand_id[]=362&brand_id[]=65&order=newest_first&currency=EUR&catalog[]=257&catalog[]=259&catalog[]=260&catalog[]=1820&price_to=25">
+        Pantalons</option>
     <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&catalog[]=79&brand_id[]=6&price_to=12">
-        Pull GAP</option>
+        value="https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=88&order=newest_first&currency=EUR&catalog[]=582&search_text=ensemble&price_to=70.00">
+        Ensembles</option>
     <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=65&catalog[]=34&catalog[]=257&price_to=15">
-        Pantalon Dickies</option>
+        value="https://www.vinted.fr/vetements?brand_id[]=304&brand_id[]=88&brand_id[]=94&order=newest_first&currency=EUR&catalog[]=536&price_to=15.00">
+        Chemises</option>
     <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=43777&price_to=50&catalog[]=2052">
-        Manteau JOTT</option>
+        value="https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=304&brand_id[]=2319&brand_id[]=88&brand_id[]=94&brand_id[]=56974&brand_id[]=90804&brand_id[]=362&order=newest_first&currency=EUR&catalog[]=77&price_to=15.00">
+        T-Shirt</option>
     <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=56974&price_to=15&catalog[]=77">
-        T-Shirt CdG</option>
+        value="https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=304&brand_id[]=88&brand_id[]=94&brand_id[]=441&brand_id[]=362&brand_id[]=6&brand_id[]=90804&order=newest_first&currency=EUR&price_to=20.00&catalog[]=267">
+        Pulls</option>
     <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=56974&catalog[]=1811&price_to=25">
-        Sweat CdG</option>
+        value="https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=304&brand_id[]=2319&brand_id[]=88&brand_id[]=94&brand_id[]=441&brand_id[]=362&brand_id[]=43777&order=newest_first&currency=EUR&catalog[]=287&catalog[]=94&price_to=35.00">
+        Accessoires</option>
     <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&catalog[]=1812&price_to=40&brand_id[]=56974">
-        Gilet CdG</option>
+        value="https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=304&brand_id[]=2319&brand_id[]=94&brand_id[]=362&brand_id[]=56974&brand_id[]=6&brand_id[]=90804&order=newest_first&currency=EUR&catalog[]=1811&catalog[]=1825&catalog[]=1812&catalog[]=1814&catalog[]=266&catalog[]=264&price_to=30">
+        Gilets</option>
     <option
-        value="https://www.vinted.fr/vetements?order=newest_first&brand_id[]=362&currency=EUR&price_to=15&catalog[]=86">
-        Chapeaux Carhartt</option>
-    <option
-        value="https://www.vinted.fr/vetements?catalog[]=34&order=newest_first&brand_id[]=362&currency=EUR&price_to=25">
-        Pantalon Carhartt</option>
-    <option
-        value="https://www.vinted.fr/vetements?catalog[]=79&order=newest_first&brand_id[]=362&price_to=20&currency=EUR">
-        Pull Crahartt</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&catalog[]=77&brand_id[]=441&price_to=20">
-        Tee-Shirt Stussy</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=441&catalog[]=79&price_to=30">
-        Pull Stussy</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=441&catalog[]=86&price_to=20">
-        Chapeaux Stussy</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=73306&catalog[]=1811&price_to=65">
-        Sweat Stone Island</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=88&catalog[]=34&price_to=30">
-        Pull Stone Island</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=88&catalog[]=536&price_to=15">
-        Chemises Ralph Lauren</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=88&catalog[]=79&price_to=20">
-        Pull Ralph Lauren</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=2319&catalog[]=79&price_to=15">
-        Pull TNF</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=2319&catalog[]=86&price_to=15">
-        Chapeaux TNF</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=2319&price_to=35&catalog[]=94">
-        Sacs TNF</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&price_to=120&catalog[]=2051&brand_id[]=2319">
-        Menteaux TNF</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=304&catalog[]=536&price_to=10">
-        Chemise Lacoste</option>
-    <option 
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=304&catalog[]=34&price_to=20">
-        Pantalon Lacoste</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=304&catalog[]=86&price_to=15">
-        Chapeaux Lacoste</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=304&catalog[]=79&price_to=25">
-        Pull Lacoste</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=53&catalog[]=77&price_to=10">
-        T-shirt Nike</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&catalog[]=79&brand_id[]=53&price_to=20">
-        Pull Nike</option>
-    <option
-        value="https://www.vinted.fr/vetements?order=newest_first&currency=EUR&brand_id[]=53&catalog[]=34&price_to=20">
-        Pantalon Nike</option>
+        value="https://www.vinted.fr/vetements?brand_id[]=53&brand_id[]=2319&brand_id[]=88&brand_id[]=94&brand_id[]=43777&order=newest_first&currency=EUR&catalog[]=2051&price_to=120">
+        Manteaux</option>
 </select><button type="button" onclick="getDropdownValue();">Monitorer</button></div>
